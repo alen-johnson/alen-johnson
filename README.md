@@ -1,7 +1,6 @@
 [![MasterHead](https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg)]
 <h1 align="center"> Alen J Ninan </h1>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07aiXHsEbpirWcekN1cEXKqgLE4d7WW-Yzb-yziB8xTgqlbR2mqIjrgGqxpf6AnfNHfo&usqp=CAU"/>
 
 - 🔭 I’m currently working as **Software Developer**
   
