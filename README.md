@@ -1,5 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/application-smartphone-business-graph-analytics-260nw-1583248045.jpg)]
-<h1 align="center"> Alen J Ninan </h1>
 
 
 - 🔭 I’m currently working as **Software Developer**
